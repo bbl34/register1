@@ -24,7 +24,7 @@
         <input type="submit" value="登录" />
         <input type="reset" value="重置" />
     </form>
-    <a href="${website}toRegister">点击注册吧</a>
+    <a href="${website}toRegister">注册</a>
 
 </body>
 </html>
